@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pypckompsite
+- 👋 Hi, I’m @adamsyndoman
 - 👀 I’m interested in Cyber Security, Programming
 - 🌱 I’m currently learning Web Development and pen testing
 - 💞️ I’m looking to collaborate on projects I like/ translation
